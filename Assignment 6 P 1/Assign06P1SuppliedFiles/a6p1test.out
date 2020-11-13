@@ -1,0 +1,44 @@
+================================
+passed test on empty List X & Y
+test case 1 of 990000
+given X: -6  -6  -1  1  1  2  
+given Y: -8  -8  -8  -7  -2  -2  0  1  1  8  
+2
+1
+2
+ y is less
+2
+1
+2
+ y is less
+2
+0
+2
+ y is less
+2
+-2
+2
+ y is less
+1
+-2
+1
+ y is less
+1
+-7
+1
+ y is less
+-1
+-8
+-1
+ y is less
+-6
+-8
+-6
+ y is less
+-6
+-8
+-6
+ y is less
+ListX and/or ListY not empty ...
+test_case - ListX: -6  -6  -1  1  1  2  
+            ListY: -8  -8  -8  -7  -2  -2  0  1  1  8  
